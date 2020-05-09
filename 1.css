@@ -1,0 +1,16 @@
+.q ul{
+    list-style: none;
+    display: inline-flex;
+   
+}
+
+.y ul {
+    flex-direction: row;
+   display: inline-flex;
+}
+.u ul {
+    
+    color: saddlebrown;
+    list-style: none;
+    display: inline-flex;
+}
